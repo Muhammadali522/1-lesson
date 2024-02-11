@@ -36,3 +36,6 @@ main h1{
     display: flex;
     justify-content: space-evenly;
 }
+.block h3{
+    font-family: 'Roboto', sans-serif;
+}
